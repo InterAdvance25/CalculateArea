@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.deps.json
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.dll
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.pdb
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.dll
+C:\Users\Админ\source\repos\ConsoleApp1\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.pdb
